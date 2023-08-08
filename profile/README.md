@@ -12,7 +12,6 @@
 
 |Repo|About|Lead(s)|
 |---|---|:-:|
-|[gui-tauri](https://github.com/beat-forge/gui-tauri)|Native BeatForge client built with Rust and Svelte|[@FeroTheFox](https://github.com/ferothefox)
-|[web](https://github.com/beat-forge/web)|BeatForge website built with Svelte and TypeScript|[@Wamy-Dev](https://github.com/wamy-dev) [@FeroTheFox](https://github.com/ferothefox)
+|[clients](https://github.com/beat-forge/clients)|BeatForge web and native clients monorepo|[@FeroTheFox](https://github.com/ferothefox) [@Wamy-Dev](https://github.com/Wamy-Dev)
 |[api](https://github.com/beat-forge/api)|Rust-based backend for BeatForge services|[@ChecksumDev](https://github.com/ChecksumDev) [@sargon64](https://github.com/sargon64)
 |[cli (DX)](https://github.com/beat-forge/cli)|Rust CLI to bootstrap mods|[@sargon64](https://github.com/sargon64)
