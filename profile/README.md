@@ -13,5 +13,6 @@
 |Repo|About|Lead(s)|
 |---|---|:-:|
 |[clients](https://github.com/beat-forge/clients)|BeatForge web and native clients monorepo|[@FeroTheFox](https://github.com/ferothefox) [@Wamy-Dev](https://github.com/Wamy-Dev)
-|[api](https://github.com/beat-forge/api)|Rust-based backend for BeatForge services|[@ChecksumDev](https://github.com/ChecksumDev) [@sargon64](https://github.com/sargon64)
-|[cli (DX)](https://github.com/beat-forge/cli)|Rust CLI to bootstrap mods|[@sargon64](https://github.com/sargon64)
+|[api](https://github.com/beat-forge/api)|Rust backend for BeatForge services|[@ChecksumDev](https://github.com/ChecksumDev) [@sargon64](https://github.com/sargon64)
+|[cli](https://github.com/beat-forge/cli)|Rust CLI to bootstrap mods|[@sargon64](https://github.com/sargon64)
+|[lib](https://github.com/beat-forge/lib)|Rust library defining BeatForge mods|[@sargon64](https://github.com/sargon64)
