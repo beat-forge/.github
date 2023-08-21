@@ -4,15 +4,5 @@
   "prHourlyLimit": 0,
   "prConcurrentLimit": 0,
   "recreateWhen": "always",
-  "lockFileMaintenance": {
-    "enabled": true,
-    "automerge": true
-  },
-  "packageRules": [
-    {
-      "matchUpdateTypes": ["minor", "patch"],
-      "matchCurrentVersion": "!/^0/",
-      "automerge": true
-    }
-  ]
+  "automerge": true
 }
